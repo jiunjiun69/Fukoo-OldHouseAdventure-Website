@@ -12,13 +12,5 @@
     <guid>https://example.com/rpg-game-introduce/</guid>
     <description><![CDATA[復國幼兒園-老房子大冒險 -- 復國幼兒園-老房子大冒險 《復國幼兒園-老房子大冒險》是一款以復國幼兒園周邊的老房子為主題的冒險遊戲，玩家可以透過遊]]></description>
 </item>
-<item>
-    <title>[TW]Markdown 基本语法</title>
-    <link>https://example.com/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://example.com/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item>
 </channel>
 </rss>
