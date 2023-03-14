@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://jiunjiun69.github.io/sitemap.xml
+Sitemap: /sitemap.xml
