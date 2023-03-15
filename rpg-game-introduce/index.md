@@ -37,12 +37,12 @@
 > 
 > 電腦版 :computer: :
 > - [Windows 版遊戲下載-__可以直接遊玩__](https://drive.google.com/file/d/10BX_9QLOf7vtHDZZOJYdf3BOy1S1o86t/view?usp=share_link) (解壓縮後，點擊Game.exe就可以直接遊玩了)
-> - ~~[Mac 版遊戲下載-__尚未封裝__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
-> - ~~[Linux 版遊戲下載-__尚未封裝__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
+> - ~~[Mac 版遊戲下載-__尚未封裝__](/Fukoo-OldHouseAdventure-Website/#)~~
+> - ~~[Linux 版遊戲下載-__尚未封裝__](/Fukoo-OldHouseAdventure-Website/#)~~
 >
 > 手機版 :iphone: :
-> - ~~[Android 版遊戲下載-__尚未封裝__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
-> - ~~[iOS 版遊戲下載-__尚未封裝__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
+> - ~~[Android 版遊戲下載-__尚未封裝__](/Fukoo-OldHouseAdventure-Website/#)~~
+> - ~~[iOS 版遊戲下載-__尚未封裝__](/Fukoo-OldHouseAdventure-Website/#)~~
 
 ---
 
