@@ -36,12 +36,12 @@ You can start playing the game directly through the web version link. **The down
 > 
 > Computer version :computer: :
 > - [Download Windows version game-__can be played directly__](https://drive.google.com/file/d/10BX_9QLOf7vtHDZZOJYdf3BOy1S1o86t/view?usp=share_link) (After decompression, click on Game.exe to start playing directly)
-> - ~~[Download Mac version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/#)~~
-> - ~~[Download Linux version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/#)~~
+> - ~~[Download Mac version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/87?)~~
+> - ~~[Download Linux version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/87?)~~
 >
 > Mobile version :iphone: :
-> - ~~[Download Android version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/#)~~
-> - ~~[Download iOS version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/#)~~
+> - ~~[Download Android version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/87?)~~
+> - ~~[Download iOS version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/87?)~~
 
 
 ---
