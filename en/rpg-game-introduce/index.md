@@ -35,7 +35,7 @@ You can start playing the game directly through the web version link. **The down
 > **Download version game link:**
 > 
 > Computer version :computer: :
-> - [Download Windows version game-__can be played directly__](https://drive.google.com/file/d/10BX_9QLOf7vtHDZZOJYdf3BOy1S1o86t/view?usp=share_link) (After decompression, click on Game.exe to start playing directly)
+> - [Download Windows version game-__can be played directly__](https://drive.google.com/file/d/1kV2pd4seFwVgK_wfcSzrHXOEIgiaIHbR/view?usp=share_link) (After decompression, click on Game.exe to start playing directly)
 > - ~~[Download Mac version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/87?)~~
 > - ~~[Download Linux version game-__not yet packaged__](/Fukoo-OldHouseAdventure-Website/87?)~~
 >

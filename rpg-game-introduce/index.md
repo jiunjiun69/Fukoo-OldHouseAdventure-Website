@@ -36,7 +36,7 @@
 > **下載版遊戲載點：** 
 > 
 > 電腦版 :computer: :
-> - [Windows 版遊戲下載-__可以直接遊玩__](https://drive.google.com/file/d/10BX_9QLOf7vtHDZZOJYdf3BOy1S1o86t/view?usp=share_link) (解壓縮後，點擊Game.exe就可以直接遊玩了)
+> - [Windows 版遊戲下載-__可以直接遊玩__](https://drive.google.com/file/d/1kV2pd4seFwVgK_wfcSzrHXOEIgiaIHbR/view?usp=share_link) (解壓縮後，點擊Game.exe就可以直接遊玩了)
 > - ~~[Mac 版遊戲下載-__尚未封裝__](/Fukoo-OldHouseAdventure-Website/87?)~~
 > - ~~[Linux 版遊戲下載-__尚未封裝__](/Fukoo-OldHouseAdventure-Website/87?)~~
 >
