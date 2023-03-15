@@ -36,12 +36,12 @@ You can start playing the game directly through the web version link. **The down
 > 
 > Computer version :computer: :
 > - [Download Windows version game-__can be played directly__](https://drive.google.com/file/d/10BX_9QLOf7vtHDZZOJYdf3BOy1S1o86t/view?usp=share_link) (After decompression, click on Game.exe to start playing directly)
-> - ~~[Download Mac version game-__not yet packaged__](/files/)~~
-> - ~~[Download Linux version game-__not yet packaged__](/files/)~~
+> - ~~[Download Mac version game-__not yet packaged__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
+> - ~~[Download Linux version game-__not yet packaged__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
 >
 > Mobile version :iphone: :
-> - ~~[Download Android version game-__not yet packaged__](/files/)~~
-> - ~~[Download iOS version game-__not yet packaged__](/files/)~~
+> - ~~[Download Android version game-__not yet packaged__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
+> - ~~[Download iOS version game-__not yet packaged__](https://jiunjiun69.github.io/Fukoo-OldHouseAdventure-Website/404)~~
 
 
 ---
@@ -72,7 +72,7 @@ graph LR;
 {{< admonition type=tip title="Origin" open=true >}}
 - This game is based on the content of a children's storybook called "The Old House Near the School," which was created by a teacher and students of the Elephant Class at the Fu-Kuo Municipal Kindergarten in Chiayi. The game is designed as an RPG quiz type that allows children to interact and pass levels. The game is mainly guided by a character named "Old House Elf" who leads the children through the game.
 
-- The storybook tells the story of an old house located in the Fu-Kuo Municipal Kindergarten in Chiayi. It used to be the residence of the first principal, but after the principal retired, the Old House Elf fell asleep. Later, the children of the kindergarten cleaned up the old house and woke up the Old House Elf. The game then introduces the stories of six other old houses located in Chiayi, which will be presented to children through the gameplay.
+- The storybook tells the story of an old house located in the Fu-Kuo Municipal Kindergarten in Chiayi. It used to be the residence of the first principal, but after the principal retired, the Old House Elf fell asleep. Later, the children of the kindergarten cleaned up the old house and woke up the Old House Elf. The game then introduces the stories of six old houses located in Chiayi, which will be presented to children through the gameplay.
 
 - The Old House Elf will ask the children to collect some items from the other five old houses to help him renovate his shabby room. In each old house, the children will encounter a different elf and find various hints about the old house. By answering questions, they can obtain the items the Old House Elf needs. Once all the items from the five old houses are collected, the children return to the Fu-Kuo Municipal Kindergarten to deliver the items to the Old House Elf, and the game is cleared.
 
